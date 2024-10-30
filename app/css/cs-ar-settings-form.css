@@ -1,0 +1,224 @@
+@media screen and (min-width: 1350px) {
+    .cs_ar_settings_form {
+        float: left;
+        width: 1157px;
+        margin: 0 0 5px 5px;
+    }
+
+    .cs_ar_input_div {
+        float: left;
+        width: 50%;
+        height:55px;
+        margin: 2px 0 2px 0;
+    }
+
+    h3.cs_ar_form_header {
+        border-bottom: 1px solid grey;
+        width:1144px !important;
+    }
+
+    .cs_ar_retrieval_details_label {
+        width: 350px;
+        float: left;
+    }
+
+    .cs_ar_yes_no_container {
+        margin-top: 13px;
+        width: 215px;
+    }
+
+    .cs_ar_yes_no_label {
+        margin-right: 5px;
+        margin-left: 41px;
+    }
+
+    .cs_ar_sub_form {
+        width:99%;
+    }
+
+    .cs_ar_button_section {
+        width: 273px;
+        margin-top: 5px;
+    }
+}
+
+@media screen and (max-width: 1349px) {
+    .cs_ar_settings_form {
+        float: left;
+        width: 100%;
+        margin: 0 0 5px 5px;
+    }
+
+    .cs_ar_input_div {
+        float: left;
+        width: 100%;
+        height:55px;
+        margin: 2px 0 2px 0;
+    }
+
+    h3.cs_ar_form_header {
+        border-bottom: 1px solid grey;
+        width: 100%;
+    }
+
+    .cs_ar_retrieval_details_label {
+        width: 73%;
+        float: left;
+    }
+
+    .cs_ar_yes_no_container {
+        margin-top: 5px;
+        width: 27%;
+    }
+
+    .cs_ar_yes_no_label {
+        margin-right: 5px;
+        margin-left: 41px;
+    }
+
+    .cs_ar_sub_form {
+        width:99%;
+    }
+
+    .cs_ar_button_section {
+        width: 273px;
+        margin-top: 5px;
+    }
+}
+
+@media screen and (max-width: 820px) {
+    .cs_ar_yes_no_label {
+        margin-right: 5px;
+        margin-left: 41px;
+        margin-top: 5px;
+    }
+
+    .cs_ar_input_div input[type=text], .cs_ar_input_div input[type=password], .cs_ar_input_div select {
+        width: 195px;
+    }
+
+    .cs_ar_input_div {
+        float: left;
+        width: 100%;
+        height:60px;
+        margin: 2px 0 2px 0;
+    }
+
+    .tablenav h3.cs_ar_table_header {
+        width: 99%;
+        border-bottom: 1px solid grey;
+        margin-bottom: 20px;
+    }
+
+    .cs_ar_sub_form {
+        width:98%;
+    }
+
+    .cs_ar_button_section {
+        width: 290px;
+        margin-top: 5px;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .cs_ar_retrieval_details_label {
+        width: 100%;
+        float: left;
+    }
+
+    .cs_ar_yes_no_container {
+        margin-top: 5px;
+        width: 100%;
+    }
+
+    .cs_ar_yes_no_container {
+        margin-top: 5px;
+        width: 64%;
+        margin-left: 18%;
+        margin-right: 18%;
+    }
+
+    .cs_ar_input_div {
+        float: left;
+        width: 100%;
+        height:85px;
+        margin: 2px 0 2px 0;
+    }
+
+    .cs_ar_input_div input[type=text], .cs_ar_input_div input[type=password], .cs_ar_input_div select {
+        width: 100%;
+    }
+
+    .cs_ar_button_section {
+        width: 100%;
+        margin-top: 5px;
+        margin-right: 1%;
+    }
+
+    .tablenav .displaying-num {
+        width:100%;
+        float:left;
+    }
+
+    .cs_ar_button_section input[type=submit] {
+        width:100%;
+        float:left;
+        margin-bottom:10px;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .cs_ar_yes_no_container {
+        margin-top: 5px;
+        width: 72%;
+        margin-left: 14%;
+        margin-right: 14%;
+    }
+}
+
+.cs_ar_form_label {
+    margin-top: 5px;
+}
+
+.cs_ar_retrieval_details_select {
+    width: 215px;
+}
+
+.cs_ar_red_text {
+    color: red;
+}
+
+.cs_ar_error {
+    float: right;
+    margin: 5px 20px 0 5px;
+}
+
+.cs_ar_float_left {
+    float: left;
+}
+
+.cs_ar_float_right {
+    float: right;
+}
+
+.cs_ar_form_header {
+    width: 100%;
+}
+
+.cs_ar_no_show {
+    display: none;
+}
+
+.cs_ar_table_header {
+    float: left;
+    margin: 10px 0 0 0;
+}
+
+.cs_ar_yes_no_label {
+    margin-right: 5px;
+    margin-left: 41px;
+}
+
+input[type=radio] {
+    margin-top: 2px;
+}

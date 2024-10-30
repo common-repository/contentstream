@@ -1,0 +1,28 @@
+.cs-ar-article-divider {
+    border-bottom: 1px solid #484545;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+article p img {
+    margin: 15px auto;
+    display: block;
+    height: auto;
+    vertical-align: middle;
+}
+
+.cs-ar-author {
+    margin-bottom: 0;
+}
+
+.cs-ar-pub-date {
+    margin: 0;
+}
+
+.cs-ar-original-pub-date {
+    margin-top: 0;
+}
+
+header.cs-ar-article-divider p:nth-child(5) {
+    font-style: italic !important;
+}
